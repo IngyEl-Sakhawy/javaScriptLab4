@@ -7,7 +7,7 @@ Getting Started
 Examples
 Contributing
 License
-Getting Started
+
 These implementations provide a basic structure for managing a person's attributes and actions such as sleeping, eating, and buying. Choose the implementation that best fits your project or coding style.
 
 ## Prerequisites
@@ -27,9 +27,13 @@ Include the chosen implementation in your project and use the provided methods t
 javascript
 
 const person1 = new Person('ingy', 50, 'happy', 30);
+
 person1.sleep(8);
+
 person1.eat(2);
+
 person1.buy(1);
+
 console.log(person1);
 
 
