@@ -2,7 +2,7 @@
 This repository contains multiple implementations of a simple Person Management System using different JavaScript paradigms - Constructor Functions, Classes, Objects Linking to Other Objects (OLOO), and Factory Functions.
 
 ## Table of Contents
-Getting Started
+
 ### Usage
 Examples
 Contributing
