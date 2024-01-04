@@ -4,9 +4,6 @@ This repository contains multiple implementations of a simple Person Management 
 ## Table of Contents
 
 ### Usage
-Examples
-Contributing
-License
 
 These implementations provide a basic structure for managing a person's attributes and actions such as sleeping, eating, and buying. Choose the implementation that best fits your project or coding style.
 
